@@ -1,4 +1,4 @@
-# Temporal Money Transfer Tutorial
+# Temporal Money Transfer (Example)
 
 This project demonstrates a simple money transfer application using [Temporal](https://temporal.io/).
 
